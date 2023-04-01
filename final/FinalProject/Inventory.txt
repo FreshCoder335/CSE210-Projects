@@ -1,0 +1,7 @@
+System.Collections.Generic.List`1[System.String]
+16 inches 
+ 8 pounds 
+ 500RPM Daniel Defense
+16 inches 
+ 8 pounds 
+ 500RPM Daniel Defense
