@@ -5,3 +5,44 @@ System.Collections.Generic.List`1[System.String]
 16 inches 
  8 pounds 
  500RPM Daniel Defense
+
+16 inches 
+ 8 pounds 
+ 500RPM 
+Daniel Defense 
+ M4A1 model 2 
+ tactical sporting rifle 
+ 30 standardized 
+ 5.56MM
+16 inches 
+ 8 pounds 
+ 500RPM 
+Daniel Defense 
+ M4A1 model 2 
+ tactical sporting rifle 
+ 30 standardized 
+ 5.56MM
+16 inches 
+ 8 pounds 
+ 500RPM 
+Daniel Defense 
+ M4A1 model 2 
+ tactical sporting rifle 
+ 30 standardized 
+ 5.56MM
+16 inches 
+ 8 pounds 
+ 500RPM 
+Daniel Defense 
+ M4A1 model 2 
+ tactical sporting rifle 
+ 30 standardized 
+ 5.56MM
+16 inches 
+ 8 pounds 
+ 500RPM 
+Daniel Defense 
+ M4A1 model 2 
+ tactical sporting rifle 
+ 30 standardized 
+ 5.56MM

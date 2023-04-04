@@ -18,6 +18,6 @@ public class JPfirearmSpecs : JPfirearmGeneral
     }
     public override string JPtoString()
     {
-        return$"{_JPbarrelLength} \n {_JPfirearmWeight} \n {_JProundsPerMinute} {_JPmanufacturer}";
+        return$"{_JPbarrelLength} \n {_JPfirearmWeight} \n {_JProundsPerMinute} \n{_JPmanufacturer} \n {_JPfirearmName} \n {_JParmStyle} \n {_JPcapacity} \n {_JPcartridge}";
     }
 }
